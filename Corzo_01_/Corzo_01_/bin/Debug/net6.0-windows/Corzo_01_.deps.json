@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Corzo_01_/1.0.0": {
+        "runtime": {
+          "Corzo_01_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corzo_01_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
